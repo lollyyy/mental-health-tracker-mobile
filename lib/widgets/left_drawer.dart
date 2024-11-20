@@ -31,7 +31,7 @@ class LeftDrawer extends StatelessWidget {
                 Text(
                   "Ayo jaga kesehatan mentalmu setiap hari disini!",
                   textAlign: TextAlign.center,
-                  style: const TextStyle(
+                  style: TextStyle(
                     fontSize: 15,
                     color: Colors.white,
                     fontWeight: FontWeight.normal,
